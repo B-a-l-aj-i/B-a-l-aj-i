@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=8372ec&text=Balaji%20M&section=header&reversal=false&fontSize=40&fontAlign=50&animation=twinkling&desc=Junior%20Frontend%20Developer&textBg=false&descSize=31&descAlignY=65&fontAlignY=49"
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=8372ec&text=Balaji%20M&section=header&reversal=false&fontSize=35&fontAlign=50&animation=twinkling&desc=Junior%20Frontend%20Developer&textBg=false&descSize=31&descAlignY=65&fontAlignY=49"
   alt="Balaji M" />
 </div>
 
@@ -62,7 +62,8 @@ I am enthusiastic about learning new technologies and always looking to improve 
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-![snake gif](https://github.com/B-a-l-aj-i/B-a-l-aj-i/blob/output/github-snake.svg)
+
+   ![snake gif](https://github.com/B-a-l-aj-i/B-a-l-aj-i/blob/output/github-snake.svg)
 
 <p align="center">
   Thank you for visiting my profile! Feel free to reach out to connect or collaborate.
