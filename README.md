@@ -62,8 +62,10 @@ I am enthusiastic about learning new technologies and always looking to improve 
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
-
+<div align="center">
+  
    ![snake gif](https://github.com/B-a-l-aj-i/B-a-l-aj-i/blob/output/github-snake.svg)
+</div>
 
 <p align="center">
   Thank you for visiting my profile! Feel free to reach out to connect or collaborate.
