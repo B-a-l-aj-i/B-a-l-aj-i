@@ -40,7 +40,6 @@ I am enthusiastic about learning new technologies and always looking to improve 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" alt="css3">
   &nbsp;&nbsp;&nbsp;&nbsp;
-
   <!-- Frameworks -->
   <br>
   <h3>Frameworks</h3>
@@ -56,10 +55,15 @@ I am enthusiastic about learning new technologies and always looking to improve 
   <!-- Tools -->
   <br>
   <h3>Tools</h3>
+  <img src="https://skillicons.dev/icons?i=git" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60px" alt="Git">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60px" alt="VS Code">
   &nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
 <div align="center">
