@@ -19,7 +19,7 @@
 <p align="center">
  <em> Hello, I am Balaji, a <strong>junior Front End developer</strong> with a passion for <strong>creating engaging and user-friendly websites</strong>.
 <br>
-I am enthusiastic about learning new technologies and always looking to improve my skills in front-end development.
+I am enthusiastic about learning new technologies and always looking to improve my skills in front-end development..
 <br>
 </em>
 </p>
