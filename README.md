@@ -1,6 +1,6 @@
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=6c57fe&text=Balaji%20M&section=header&reversal=false&fontSize=35&fontAlign=50&animation=twinkling&desc=Junior%20Frontend%20Developer&textBg=false&descSize=31&descAlignY=65&fontAlignY=49"
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=6c57fe&text=Balaji%20M&section=header&reversal=false&fontSize=35&fontAlign=50&animation=twinkling&desc=Junior%20Fullstack%20Engineer&textBg=false&descSize=31&descAlignY=65&fontAlignY=49"
   alt="Balaji M" />
 </div>
 
