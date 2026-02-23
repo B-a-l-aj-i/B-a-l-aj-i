@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <em> Hello, I am Balaji, a <strong>Fullstack Engineer/strong> with a passion for <strong>creating engaging and user-friendly websites</strong>.
+ <em> Hello, I am Balaji, a <strong>Fullstack Engineer</strong> with a passion for <strong>creating engaging and user-friendly websites</strong>.
 <br>
 I am enthusiastic about learning new technologies and always looking to improve my skills in front-end development..
 <br>
