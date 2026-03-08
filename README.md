@@ -41,18 +41,23 @@ I am enthusiastic about learning new technologies and always looking to improve 
       <img src="https://skillicons.dev/icons?i=css&theme=light" />
      &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Frameworks -->
-  <br>
-  <h3>Frameworks & Library</h3>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="60px" alt="Express">
-  &nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60px" alt="React">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60px" alt="Bootstrap">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60px" alt="Express">
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<h3>Frameworks & Library</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60px" alt="React">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60px" alt="NextJS">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60px" alt="Bootstrap">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60px" alt="Express">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Tools -->
   <br>
